@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webflow-project-description>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.8.1.201607290748-RELEASE]]></pluginVersion>
+	<configs>
+		<config>
+			<file>src/main/webapp/WEB-INF/flow.xml</file>
+			<name><![CDATA[flow]]></name>
+			<beans-config><![CDATA[1:BeansModel|2:pizzaHutSpringWebFlow|3:src/main/webapp/WEB-INF/webflow-servlet.xml]]></beans-config>
+		</config>
+	</configs>
+</webflow-project-description>
